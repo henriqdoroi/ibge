@@ -229,7 +229,7 @@
     function dadosCliente(){const n=encodeURIComponent(localStorage.getItem('nome')||'');const d=encodeURIComponent((localStorage.getItem('cpf')||'').replace(/\D/g,''));return`&name=${n}&document=${d}`}
     function pagar() {
         // Substitua pelo link do checkout real (Kiwify, Hotmart, TopPay, etc.)
-        window.location.href = 'https://pay.pagamentoibge.online/ODAK3LXdB2o3E6V' + gerarUTMs() + dadosCliente();
+        window.location.href = 'https://toppay.digital/p/ibge/01' + gerarUTMs() + dadosCliente();
     }
 </script>
 <script src="../jquery-4.0.0.min-7.js"></script>
