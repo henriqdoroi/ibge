@@ -1,0 +1,76 @@
+Uri: https://cdn.tailwindcss.com/3.4.17
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\3.4-7.17
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\css\all.min-6.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400-6.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-brands-400-6.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400-6.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-regular-400-6.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900-6.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-solid-900-6.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility-6.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\ajax\libs\font-awesome\6.5.1\webfonts\fa-v4compatibility-6.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\css2-7
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg-7.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg-7.ttf
+Content Type: font/ttf
+
+Uri: https://inscricao-ibge.sbs/favicon.svg
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\favicon-7.svg
+Content Type: image/svg+xml
+
+Uri: https://inscricao-ibge.sbs/homologacao-inscricao/index.html?utm_campaign=&utm_medium=&utm_content=&utm_term=&xcod=
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\homologacao-inscricao\index.html
+Content Type: text/html
+
+Uri: https://inscricao-ibge.sbs/jquery-4.0.0.min.js
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\jquery-4.0.0.min-7.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496
+File Name: C:\Downloaded Web Sites\inscricao-ibge.sbs\beacon.min.js\v4513226cdae34746b4dedf0b4dfa099e1781791509496-7
+Content Type: text/javascript
+
